@@ -1,3 +1,5 @@
+![Screen-Recording-2023-08-01-at-11-Lowest-64k](https://github.com/requiredcrx/CookieClicker_automation_with_Selenium/assets/91392775/1811de15-10dd-48cb-b0a9-90da2a6c4aac)
+
 <h1 align="center">Cookie Clicker Bot</h1>
 
 <p align="center">

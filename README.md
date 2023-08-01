@@ -1,9 +1,7 @@
 <h1 align="center">Cookie Clicker Bot</h1>
 
 <p align="center">
-![Screen-Recording-2023-08-01-at-11-Lowest-64k](https://github.com/requiredcrx/CookieClicker_automation_with_Selenium/assets/91392775/b36a2730-27f8-4fbb-bf4b-7c5dfeeb3aef)
 </p>
-![Screen-Recording-2023-08-01-at-11-Lowest-64k](https://github.com/requiredcrx/CookieClicker_automation_with_Selenium/assets/91392775/b0c7073e-b3e2-4252-a668-95f54b0f91e5)
 
 ## About
 
@@ -21,3 +19,4 @@ Cookie Clicker Bot is an automation script written in Python using Selenium WebD
 
 ```bash
 git clone https://github.com/your-username/cookie-clicker-bot.git
+![Screen-Recording-2023-08-01-at-11-Lowest-64k](https://github.com/requiredcrx/CookieClicker_automation_with_Selenium/assets/91392775/60874e9e-de68-4733-b01b-3dd970a45c75)

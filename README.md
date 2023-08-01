@@ -31,7 +31,7 @@ git clone https://github.com/requiredcrx/cookie-clicker-bot.git
 
 If you wish to customize the behavior of the bot, you can modify the purchase_times dictionary in the cookie_clicker_bot.py file. This dictionary specifies the delay (in seconds) for each upgrade check. Feel free to add or remove upgrades or adjust the timings to suit your preferences.
 
- ##Disclaimer
+ ## Disclaimer
 
 Cookie Clicker Bot is intended for educational and entertainment purposes only. The use of automated scripts to play games may violate the terms of service of the game. Use this script responsibly and at your own risk.
 

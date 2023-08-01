@@ -1,8 +1,7 @@
 <h1 align="center">Cookie Clicker Bot</h1>
 
 <p align="center">
-  ![Screen-Recording-2023-08-01-at-11-Lowest-64k](https://github.com/requiredcrx/CookieClicker_automation_with_Selenium/assets/91392775/dfce9ef2-c12a-408b-8bbd-f8d37fe3e0f9)
-
+![Screen-Recording-2023-08-01-at-11-Lowest-64k](https://github.com/requiredcrx/CookieClicker_automation_with_Selenium/assets/91392775/b36a2730-27f8-4fbb-bf4b-7c5dfeeb3aef)
 </p>
 
 ## About

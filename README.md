@@ -19,4 +19,5 @@ Cookie Clicker Bot is an automation script written in Python using Selenium WebD
 
 ```bash
 git clone https://github.com/your-username/cookie-clicker-bot.git
+```
 ![Screen-Recording-2023-08-01-at-11-Lowest-64k](https://github.com/requiredcrx/CookieClicker_automation_with_Selenium/assets/91392775/60874e9e-de68-4733-b01b-3dd970a45c75)
